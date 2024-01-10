@@ -1,0 +1,5 @@
+pandas
+numpy
+scikit-learn  # Si usas ML
+openai==0.28
+python-dotenv
